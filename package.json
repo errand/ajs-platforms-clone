@@ -1,0 +1,22 @@
+{
+  "name": "ajs-platforms-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errand/ajs-platforms-clone.git"
+  },
+  "author": "Aleksandr Shatskih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/errand/ajs-platforms-clone/issues"
+  },
+  "homepage": "https://github.com/errand/ajs-platforms-clone#readme",
+  "dependencies": {
+    "@errand/ajs-platforms": "^1.0.0"
+  }
+}
